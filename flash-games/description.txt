@@ -1,0 +1,1 @@
+Hi, this is the directory for our many flash games. If a game has a HTML version, that version will most likely be included over it's flash counterpart.
